@@ -6,8 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "oussyalg201212.aternos.me",
+    "port": 48015,
+
+    
     "version": "1.21.1"
   },
   "position": {
