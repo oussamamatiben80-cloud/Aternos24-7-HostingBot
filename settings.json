@@ -8,9 +8,8 @@
   "server": {
     "ip": "oussyalg201212.aternos.me",
     "port": 48015,
-
-    
-    "version": "1.21.1"
+  },
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
